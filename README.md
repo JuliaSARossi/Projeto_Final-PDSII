@@ -1,8 +1,7 @@
-# Projeto Final - PDSII
-O trabalho será um sistema acadêmico parecido ao utilizado pela UFMG: "Siga". Nele haverá diversas possibilidades de uso para alunos e professores utilizadores da plataforma.
 # Sistema Acadêmico
 
 ## Descrição do Projeto
+O trabalho será um sistema acadêmico parecido ao utilizado pela UFMG: "Siga". Nele haverá diversas possibilidades de uso para alunos e professores utilizadores da plataforma.
 
 Este projeto consiste em um sistema acadêmico implementado em C++. O sistema oferece funcionalidades básicas, como cadastro de alunos, acesso ao sistema, cadastro de matérias, cadastro de professores, organização de turmas e outros recursos relacionados à gestão acadêmica.
 
