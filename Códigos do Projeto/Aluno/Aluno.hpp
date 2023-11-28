@@ -6,9 +6,10 @@
 
 class Aluno {
 public:
-    Aluno(); 
+    Aluno(); // Construtor padrão
     Aluno(const std::string& nome, const std::string& sobrenome, const std::string& email, int idade, char sexo, const std::string& login, const std::string& senha);
 
+    // Métodos de acesso
     std::string getNome() const;
     std::string getSobrenome() const;
     std::string getEmail() const;
@@ -27,4 +28,4 @@ private:
     std::string senha;
 };
 
-#endif 
+#endif
