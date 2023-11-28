@@ -31,7 +31,7 @@ O [presente trabalho](https://github.com/JuliaSARossi/Projeto_Final-PDSII) tem c
 
 ## Desenvolvimento
 
-Para o desenvolvimento da estrutura do código, utilizamos o Github como plataforma para armazenamento de repositórios online e atualização do código de forma online
+Para o desenvolvimento da estrutura do código, utilizamos o Github como plataforma para armazenamento de repositórios online e atualização do código de forma online.
 
 ## Colaboradores
 
