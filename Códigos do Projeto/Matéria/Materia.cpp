@@ -1,5 +1,3 @@
-// materia.cpp
-
 #include "Materia.hpp"
 
 Materia::Materia(const std::string& codigo, const std::string& nome, const std::string& departamento)
