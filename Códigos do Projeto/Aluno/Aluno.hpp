@@ -1,5 +1,3 @@
-// aluno.hpp
-
 #ifndef ALUNO_HPP
 #define ALUNO_HPP
 
@@ -8,10 +6,9 @@
 
 class Aluno {
 public:
-    Aluno(); // Construtor padrão
+    Aluno(); 
     Aluno(const std::string& nome, const std::string& sobrenome, const std::string& email, int idade, char sexo, const std::string& login, const std::string& senha);
 
-    // Métodos de acesso
     std::string getNome() const;
     std::string getSobrenome() const;
     std::string getEmail() const;
@@ -30,4 +27,4 @@ private:
     std::string senha;
 };
 
-#endif // ALUNO_HPP
+#endif 
