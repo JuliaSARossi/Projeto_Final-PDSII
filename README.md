@@ -29,8 +29,11 @@ O presente trabalho tem como objetivo o desenvolvimento de um Sistema Acadêmico
     * É necessário ajustar as comandos de compilação conforme necessário, dependendo do compilador e do sistema operacional que você está usando.
     * O código foi projetado para funcionar em ambientes Linux/WSL, mas pode ser necessário ajustar detalhes dependendo das configurações específicas de seu ambiente.
 
-## Conclusão
+## Colaboradores
 
+@JuliaSARossi  
+@aannacgt  
+@LucasAraújoUFMG
 
 ## Conclusão
 
