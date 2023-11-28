@@ -31,11 +31,9 @@ O presente trabalho tem como objetivo o desenvolvimento de um Sistema Acadêmico
 
 ## Colaboradores
 
-@
-
-[Anna Clara Guimarães](https://github.com/aannacgt)<br>
-[Júlia Rossi](https://github.com/JuliaSARossi)<br>
-[Lucas Araújo](https://github.com/LucasAraujoUFMG)  
+[Anna Clara Guimarães Tomaz de Souza](https://github.com/aannacgt)<br>
+[Júlia Silva Antunes Rossi](https://github.com/JuliaSARossi)<br>
+[Lucas Vinícius Lopes de Araújo](https://github.com/LucasAraujoUFMG)  
 
 ## Conclusão
 
