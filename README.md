@@ -11,20 +11,15 @@ O [presente trabalho](https://github.com/JuliaSARossi/Projeto_Final-PDSII) tem c
 ## Estrutura
 Classes:
 
-a)Aluno
-A classe `Aluno` representa um aluno e armazena informações como nome, sobrenome, e-mail, idade, sexo, login e senha. Ela possui métodos de acesso para recuperar essas informações.
+a)Aluno: A classe `Aluno` representa um aluno e armazena informações como nome, sobrenome, e-mail, idade, sexo, login e senha. Ela possui métodos de acesso para recuperar essas informações.
 
-b)Materia
-A classe `Materia` representa uma matéria acadêmica e armazena informações como código, nome e departamento. Ela também possui métodos de acesso para recuperar essas informações.
+b)Materia: A classe `Materia` representa uma matéria acadêmica e armazena informações como código, nome e departamento. Ela também possui métodos de acesso para recuperar essas informações.
 
-c)Professor
-A classe `Professor` representa um professor e armazena informações como nome, e-mail, idade, sexo e área de atuação. Métodos de acesso são fornecidos para recuperar essas informações.
+c)Professor: A classe `Professor` representa um professor e armazena informações como nome, e-mail, idade, sexo e área de atuação. Métodos de acesso são fornecidos para recuperar essas informações.
 
-d)Sistema
-A classe `Sistema` é o componente central do sistema de gestão acadêmica. Ela mantém um array de alunos e fornece métodos para cadastrar alunos no sistema e acessar o sistema com login e senha.
+d)Sistema: A classe `Sistema` é o componente central do sistema de gestão acadêmica. Ela mantém um array de alunos e fornece métodos para cadastrar alunos no sistema e acessar o sistema com login e senha.
 
-e)Turma
-A classe `Turma` representa uma turma e armazena informações como código, número de vagas e nome do professor. Métodos de acesso são fornecidos para recuperar essas informações.
+e)Turma: A classe `Turma` representa uma turma e armazena informações como código, número de vagas e nome do professor. Métodos de acesso são fornecidos para recuperar essas informações.
 
 
 ## Instruções de Compilação e Execução
