@@ -8,9 +8,9 @@ O presente trabalho tem como objetivo o desenvolvimento de um Sistema Acadêmico
   <li>Acesso:</li> https://github.com/JuliaSARossi/Projeto_Final-PDSII
 </ol>
 
-## Dependências
+## Estrutura
 
-Para compilar e executar este projeto, você precisará de um compilador C++ compatível com o padrão C++11 ou superior. Além disso, o código faz uso da biblioteca [doctest](https://github.com/onqtam/doctest) para os testes unitários.
+
 
 ## Instruções de Compilação e Execução
 
@@ -28,3 +28,7 @@ Para compilar e executar este projeto, você precisará de um compilador C++ com
 
     * É necessário ajustar as comandos de compilação conforme necessário, dependendo do compilador e do sistema operacional que você está usando.
     * O código foi projetado para funcionar em ambientes Linux/WSL, mas pode ser necessário ajustar detalhes dependendo das configurações específicas de seu ambiente.
+
+## Conclusão
+
+O desenvolvimento deste projeto desempenhou um papel crucial na ampliação das habilidades em linguagem de programação C++. Proporcionou uma significativa expansão do conhecimento dos colaboradores, assim como a aplicação prática de conceitos de lógica de programação. Além disso, a iniciativa permitiu aos membros da equipe vivenciar a experiência de colaborar em um projeto em grupo, compartilhando responsabilidades e oferecendo suporte quando necessário.
