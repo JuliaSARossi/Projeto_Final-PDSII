@@ -31,4 +31,7 @@ O presente trabalho tem como objetivo o desenvolvimento de um Sistema Acadêmico
 
 ## Conclusão
 
+
+## Conclusão
+
 O desenvolvimento deste projeto desempenhou um papel crucial na ampliação das habilidades em linguagem de programação C++. Proporcionou uma significativa expansão do conhecimento dos colaboradores, assim como a aplicação prática de conceitos de lógica de programação. Além disso, a iniciativa permitiu aos membros da equipe vivenciar a experiência de colaborar em um projeto em grupo, compartilhando responsabilidades e oferecendo suporte quando necessário.
