@@ -1,9 +1,12 @@
 # Sistema Acadêmico
 
 ## Descrição do Projeto
-O trabalho será um sistema acadêmico parecido ao utilizado pela UFMG: "Siga". Nele haverá diversas possibilidades de uso para alunos e professores utilizadores da plataforma.
+O presente trabalho tem como objetivo o desenvolvimento de um Sistema Acadêmico em C++. Esse sistema oferece funcionalidades básicas, como cadastro de alunos, acesso ao sistema, cadastro de matérias, cadastro de professores, organização de turmas e outros recursos relacionados à gestão acadêmica. Nesse sistema, os alunos têm a possibilidade de se cadastrarem no sistema, acessar suas notas e frequências do semestre, e ainda fazer matrículas em matérias do curso. No caso dos professores, eles podem se cadastrar no sistema como professores, lançar notas e frequências dos alunos.
 
-Este projeto consiste em um sistema acadêmico implementado em C++. O sistema oferece funcionalidades básicas, como cadastro de alunos, acesso ao sistema, cadastro de matérias, cadastro de professores, organização de turmas e outros recursos relacionados à gestão acadêmica.
+<ol>
+  <li>Status:</li> Atualmente, o projeto se encontra em desenvolvimento;
+  <li>Acesso:</li> https://github.com/JuliaSARossi/Projeto_Final-PDSII
+</ol>
 
 ## Dependências
 
