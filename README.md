@@ -28,11 +28,23 @@ e)Turma: A classe `Turma` representa uma turma e armazena informações como có
 
    Abra um terminal na pasta do projeto e execute o seguinte comando para compilar o programa:
 
-   g++ -std=c++11 main.cpp Aluno.cpp Sistema.cpp Materia.cpp Professor.cpp Turma.cpp -o sistema_academico
+   # Compile os arquivos .cpp
+g++ -c -I include/ src/aluno.cpp -o modulo1.o
+g++ -c -I include/ src/professor.cpp -o modulo2.o
+g++ -c -I include/ src/turma.cpp -o modulo3.o
+g++ -c -I include/ src/materia.cpp -o modulo4.o
+g++ -c -I include/ src/sistema.cpp -o modulo5.o
+
+  # Vincule os módulos e crie o executável
+g++ -I include/ src/test.cpp modulo1.o modulo2.o modulo3.o modulo4.o modulo5.o -o sistema_academico
+
 2. **Execução:**
 
-   Após a compilação, execute o programa resultante:
+  # Após a compilação, execute o programa resultante:
+   ./sistema_academico
 
+   # Com o arquivo makefile, podemos executar o programa descrevendo
+   make
    ./sistema_academico
 3. **Observações:**
 
@@ -51,4 +63,8 @@ Para o desenvolvimento da estrutura do código, utilizamos o Github como platafo
 
 ## Conclusão
 
-O desenvolvimento deste projeto desempenhou um papel crucial na ampliação das habilidades em linguagem de programação C++. Proporcionou uma significativa expansão do conhecimento dos colaboradores, assim como a aplicação prática de conceitos de lógica de programação. Além disso, a iniciativa permitiu aos membros da equipe vivenciar a experiência de colaborar em um projeto em grupo, compartilhando responsabilidades e oferecendo suporte quando necessário.
+Desenvolvemos um Sistema Acadêmico modular, flexível e robusto, projetado para atender com eficiência às necessidades de alunos, professores e administradores. Uma estrutura organizada de diretórios facilita a manutenção e extensibilidade do sistema, enquanto as práticas de programação defensivas garantem a segurança dos dados.
+
+Com módulos independentes, como Aluno, Professor, Matéria e Turma, o sistema permite fácil adição de recursos. Testes unitários e integração contínua garantiram a confiabilidade do código. O Makefile simplifica construção e execução.
+
+Essa solução abrangente fornece gerenciamento completo, incluindo cadastros, matrículas, lançamento de notas e frequências. Esperamos que este projeto sirva como base sólida, contribuindo para melhorias contínuas em cenários históricos. Agradecemos a todos os envolvidos neste desenvolvimento.
