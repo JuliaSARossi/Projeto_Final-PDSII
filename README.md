@@ -36,16 +36,18 @@ g++ -c -I include/ src/turma.cpp -o modulo3.o
 g++ -c -I include/ src/materia.cpp -o modulo4.o
 g++ -c -I include/ src/sistema.cpp -o modulo5.o
 
-  Vincule os módulos e crie o executável:
+   Vincule os módulos e crie o executável:
   
 g++ -I include/ src/test.cpp modulo1.o modulo2.o modulo3.o modulo4.o modulo5.o -o sistema_academico
 
 2. **Execução:**
 
   Após a compilação, execute o programa resultante:
+  
    ./sistema_academico
 
-   Com o arquivo makefile, podemos executar o programa descrevendo
+   Com o arquivo makefile, podemos executar o programa descrevendo:
+   
    make
    ./sistema_academico
    
